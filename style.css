@@ -1,4 +1,6 @@
-*{
+@media (min-width: 768px) {
+  /* Styles for tablets and larger screens */
+}*{
     padding: 0;
     margin: 0;
     font-family:monospace;
