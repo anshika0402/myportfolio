@@ -1,4 +1,4 @@
-# myportfolio
+# My Portfolio
 # My Portfolio Project
 
 ## Overview
